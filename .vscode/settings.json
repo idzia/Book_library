@@ -1,0 +1,6 @@
+{
+  "editor.formatOnSave": true,
+  "explorer.confirmDelete": false,
+  "git.autofetch": true,
+  "editor.tabSize": 2
+}
